@@ -1,1 +1,0 @@
-# Telemedicine-Platform-for-remote-consultant
